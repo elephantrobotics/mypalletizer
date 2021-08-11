@@ -7,6 +7,7 @@
         "mesg",
         "mypalletizer",
         "pyserial",
+        "pytest",
         "struct",
         "zhang"
     ],

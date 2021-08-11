@@ -146,7 +146,7 @@ class DataProcessor(object):
 
         # process valid data
         res = []
-        if data_len == 8:
+        if data_len == 8 or data_len == 12:
             for idx in range(0, len(valid_data), 2):
                 one = valid_data[idx : idx + 2]
                 res.append(self._decode_int16(one))

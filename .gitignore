@@ -1,10 +1,10 @@
 build/
 dist/
-pymycobot.egg-info/
+*.egg-info/
 
 log
-pymycobot/__pycache__/
-tests/__pycache__/
+__pycache__/
+__pycache__/
 
 test.py
 record.txt
