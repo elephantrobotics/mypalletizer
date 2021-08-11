@@ -1,7 +1,14 @@
 {
     "cSpell.words": [
         "coord",
-        "mypalletizer"
+        "datefmt",
+        "fomatter",
+        "gpio",
+        "mesg",
+        "mypalletizer",
+        "pyserial",
+        "struct",
+        "zhang"
     ],
     "restructuredtext.confPath": ""
 }
